@@ -191,31 +191,6 @@ OOPS-using-C-LAB-Organized/
     └── 57_Exception_With_Arguments/57_Program_57_Exception_with_arguments.cpp
 ```
 
-## How to Run
-
-1. Open the repository in VS Code or another C++ development environment.
-2. Open a terminal in the folder containing the desired `.cpp` file.
-3. Compile with G++ (quotes are important for filenames containing spaces or special characters):
-
-```bash
-g++ "Program_1.cpp" -o program
-```
-
-4. Run the executable:
-
-```bash
-# Linux / macOS
-./program
-# Windows PowerShell
-./program.exe
-```
-
-## Tools and Technologies
-
-- C++
-- G++ compiler
-- Visual Studio Code or any C++ IDE
-- Git and GitHub
 
 ## Repository Updates
 
@@ -229,4 +204,4 @@ KLE Technological University, Hubballi
 
 ---
 
-**Note:** This README lists files found in the uploaded archive. It does not claim that every program has been compiled or tested.
+
